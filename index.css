@@ -3,3 +3,12 @@ body {
 	background-repeat: none;
 	background-size: cover;
 }
+
+.images {
+	width: 300px;
+	height: auto;
+}
+
+.center-column {
+	text-align: center;
+}
